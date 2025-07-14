@@ -42,7 +42,7 @@ Simulated 1000 possible future price paths using three different approaches:
 Project1_Stock_Analysis/
 │
 ├── figures/                    # saved diagrams for each method
-├── project1_stock_portfolio_analysis_and_risk_forecasting.ipynb
+├── stock_forecast_simulation.ipynb
 └── README.md                 # this file
 ```
 
